@@ -58,9 +58,9 @@ bookstory-mysql
 >
 >The following is the interface usage diagram of the program:
 
-! [Screenshot 1] (./Pictures/1.png "optional title")
+![Screenshot 1](./Pictures/1.png "")
 
-! [Screenshot 1] (./Pictures/2.png "optional title")
+![Screenshot 1](./Pictures/2.png "")
 
 ## Installation and operation mode
 

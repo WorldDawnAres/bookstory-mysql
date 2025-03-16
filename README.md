@@ -58,9 +58,9 @@ bookstory-mysql
 >
 >下图是程序的界面使用图：
 
-![Screenshot 1](./Pictures/1.png "可选标题")
+![Screenshot 1](./Pictures/1.png "")
 
-![Screenshot 1](./Pictures/2.png "可选标题")
+![Screenshot 1](./Pictures/2.png "")
 
 ## 安装和运行方式
 
